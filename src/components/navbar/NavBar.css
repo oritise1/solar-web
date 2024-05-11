@@ -1,0 +1,12 @@
+.navbar {
+    width: 1366px;
+    height: 100px;
+    background-color: #000;
+    display: flex;
+}
+.imgNav {
+    width: 60px;
+    height: 60px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
