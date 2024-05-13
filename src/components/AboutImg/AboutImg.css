@@ -1,0 +1,29 @@
+.iconwrapper {
+    width: 2000px;
+    height: 500px;
+    display: flex;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: -320px;
+    background-color: linear-gradient(to right, rgba(0, 0, 0,1), rgba(0, 0, 0,1));
+}
+.iconwrapper ::after{
+    content: "";
+    position: fixed;
+    background-color: #fa0303;
+}
+.aboutP {
+    width: 560px;
+    height: 10px;
+    position: absolute;
+    display: flex;
+    color: #ffffff;
+    font-size: 65px;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    line-height: 65px;
+    margin-left: 5px;
+    /* font-style: normal; */
+    margin-left: 200px;
+    margin-top: 90px;
+}
