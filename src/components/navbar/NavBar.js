@@ -9,12 +9,12 @@ const NavBar = () => {
             <img src={ NavLogo } alt='no imag found' className='imgNav' />
             <p className='navP'> LOGO HERE</p>
             <ul className='navlist'>
-            <li> HOME</li>
-            <li> ABOUT US</li>
-            <li> SOLAR INITIATIVE</li>
-            <li> OUR SERVICES</li>
-            <li> COMMUNITY</li>
-            <li> AESTHETICS</li>
+            <li className='lis'> HOME</li>
+            <li className='lis'> ABOUT US</li>
+            <li className='lis'> SOLAR INITIATIVE</li>
+            <li className='lis'> OUR SERVICES</li>
+            <li className='lis'> COMMUNITY</li>
+            <li className='lis'> AESTHETICS</li>
         </ul>
         </div>
         

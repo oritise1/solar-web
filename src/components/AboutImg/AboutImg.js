@@ -7,6 +7,7 @@ const AboutImg = () => {
     <div>
       <div >
       <AboutImage className='iconwrapper'/>
+      <span className='help'></span>
       </div>
       <div className='aboutP'>
           <p>SOLAR <span style={{color:'red'}}> SOLUTIONS </span> FOR A SUSTAINABLE TOMORROW <span style={{color:'red'}}>.</span> </p>
