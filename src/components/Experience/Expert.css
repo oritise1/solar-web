@@ -9,17 +9,16 @@
 }
 .wrapper {
     display: grid;
-    grid-template-columns: 20% 20% 20% 20%;
-    column-gap: 5px;
-    row-gap: 15px;
+    grid-template-columns: 15% 15% 15% 15%;
+    column-gap: 15px;
     width: fit-content;
-    margin-left: 40px;
+    margin-left: 80px;
 }
 .textimg {
-    width: 125px;
-    height: 370px;
+    width: 255px;
+    height: 400px;
     margin-top: 50px;
-    margin-left: 150px;
+    margin-left: 100px;
     display: flex;
 }
 .textspan {
@@ -43,9 +42,9 @@
     font-style: normal;
 }
 .textspan2 {
-    width: 170px ;
-    height: 147px;
-    margin-left: 12px;
+    width: 184px ;
+    height: 150px;
+    margin-left: 35px;
     position: absolute;
     margin-top: 0;
     border-radius: 10px;

@@ -1,0 +1,35 @@
+.pagewrapper {
+    width: 1212px;
+    background: #f4f4f4;
+    position: absolute;
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+    column-gap: 35px;
+    row-gap: 15px;
+    height: 650px;
+    margin-top: 5px;
+    padding: 5% 5%;
+}
+.texth1 {
+    width: 350px;
+    height: 90px;
+    font-family: "Poppins", sans-serif;
+    line-height: 50px;
+    padding: 10px 10px;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 50px;
+}
+.together {
+    width: 300px;
+    height: 250px;
+    padding: 10px 10px;
+}
+.together1 {
+    width: 320px;
+    height: 250px;
+    background-color: white;
+    padding: 30px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}

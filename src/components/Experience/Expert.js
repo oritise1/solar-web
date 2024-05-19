@@ -48,7 +48,7 @@ const Expert = () => {
                         </span> 
                 </span>
             </div>
-            </div>
+      </div>
     </div>
   )
 }

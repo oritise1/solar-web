@@ -1,0 +1,24 @@
+.texthead {
+    width: 337px;
+    height: 50px;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    line-height: 23px;
+    margin-left: 15px;
+    font-weight: 400;
+    font-style: normal;
+    color: #787878;
+}
+.texth3 {
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    line-height: 18px;
+    font-weight: 600;
+    font-style: normal;
+}
+.h1text {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 58px;
+    margin: 0 0;
+}
