@@ -1,14 +1,13 @@
 .pagewrapper {
     width: 1212px;
     background: #f4f4f4;
-    position: absolute;
     display: grid;
     grid-template-columns: 32% 32% 32%;
-    column-gap: 35px;
-    row-gap: 15px;
+    column-gap: 25px;
+    row-gap: 25px;
     height: 650px;
     margin-top: 5px;
-    padding: 5% 5%;
+    padding: 5% 6%;
 }
 .texth1 {
     width: 350px;

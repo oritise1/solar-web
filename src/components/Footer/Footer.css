@@ -1,0 +1,89 @@
+.footerWrapper {
+    width: 1350px;
+    height: 600px;
+    background-color: #000;
+    color: #fff;
+}
+.footP {
+    width: 950px;
+    height: 70px;
+    padding: 60px 200px;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    line-height: 21px;
+    font-weight: 200;
+    font-style: normal;
+}
+.line1 {
+    width: 1350px;
+    height: 1px;
+    background-color: #fff;
+    opacity: 0.2;
+}
+.footLine {
+    width: 1350px;
+    height: 1px;
+    margin-top: 5px;
+    background-color: #fff;
+    opacity: 0.2;
+}
+.foot {
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    line-height: 24px;
+    font-weight: 200;
+    font-style: normal;
+}
+.footMid {
+    display: grid;
+    grid-template-columns: 36% 14% 18% 33%;
+    column-gap: 22px;
+    margin-top: 5px;
+}
+.line2 {
+    width: 1px;
+    height: 300px;
+    background-color: #fff;
+    position: absolute;
+    margin-left: 30%;
+    margin-top: -27px;
+    opacity: 0.2;
+}
+.footCon {
+    width: 336px;
+    padding: 50px 80px;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    line-height: 20px;
+    font-weight: 200;
+    font-style: normal;
+}
+.footList {
+    list-style: none;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    line-height: 35px;
+    font-weight: 200;
+    font-style: normal;
+    cursor: pointer;
+}
+.line3 {
+    width: 1px;
+    height: 300px;
+    background-color: #fff;
+    position: absolute;
+    margin-left: 14%;
+    margin-top: 18px;
+    opacity: 0.2;
+}
+.line4 {
+    width: 1px;
+    height: 300px;
+    background-color: #fff;
+    position: absolute;
+    margin-left: 18%;
+    margin-top: 18px;
+    opacity: 0.2;
+}
