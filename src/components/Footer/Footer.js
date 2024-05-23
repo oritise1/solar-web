@@ -1,6 +1,9 @@
 import React from 'react'
 import './Footer.css'
 import NavLogo from '../../images/NavLogo.svg'
+import { ReactComponent as Social} from '../../images/Social.svg';
+import { ReactComponent as Mail} from '../../images/Mail.svg';
+import { ReactComponent as Contact} from '../../images/Contact.svg';
 
 const Footer = () => {
   return (
@@ -45,10 +48,9 @@ const Footer = () => {
                 <div>
                 <ul className='footList'>
                     <h5>Contact </h5>
-                    <li> Solar Solution</li>
-                    <li>Cable Services </li>
-                    <li>Deals and Promotions</li>
-                    <li>Consultation and Support  </li>
+                    <li> <Contact className= 'footerImg' />+2349067813147</li>
+                    <li> <Mail className= 'footerImg'/> ikareemabiodun730@gmail.com </li>
+                    <li> <Social /> </li>
                 </ul>
                 </div>
              </div>
