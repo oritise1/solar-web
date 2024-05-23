@@ -56,7 +56,7 @@ const Footer = () => {
              </div>
              <div className='footLine'>
              </div>
-             <p className='foot'> © 2023 Company Name  -  Developed By Roots Digital Marketing</p>
+             <p className='foot'> &copy; 2023 Company Name  -  Developed By Roots Digital Marketing</p>
     </div>
 
   )
